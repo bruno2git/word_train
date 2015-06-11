@@ -1,0 +1,11 @@
+< max_wordTrain('mar') >
+
+'mar' --> 'circunstancialismos'
+
+my_Best_Score = 1245815
+my_word_count = 43226 (45.0 %)
+
+               (96045 --> 100%)
+
+Nota:
+F.write((w+'\n').encode('utf-8'))
